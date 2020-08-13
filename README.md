@@ -1,4 +1,4 @@
 # hello-world
 Lets get the party started
 
-Greetings. I'm looking forward to working with you all; Thank you in advance.
+Greetings. My name is Hector and I hope we can work togheter, thank you in advance.
